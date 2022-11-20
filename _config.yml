@@ -123,13 +123,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/fhEheoqkr"
+      # url: "https://www.facebook.com/fhEheoqkr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hdjcool"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/hdj_gugalove"
+      # url: "https://www.instagram.com/hdj_gugalove"
 
 # Site Footer
 footer:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/fhEheoqkr"
+      # url: "https://www.facebook.com/fhEheoqkr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hdjcool"
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/hdj_gugalove"
+      # url: "https://www.instagram.com/hdj_gugalove"
 
 
 # Reading Files
