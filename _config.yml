@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-kr"
-title                    : "GUGA note"
+title                    : "GUGA 마법서"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GUGA"
