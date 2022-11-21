@@ -93,8 +93,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.facebook.com/fhEheoqkr"
-    - "https://www.instagram.com/hdj_gugalove"
     
 # Analytics
 analytics:
@@ -114,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.hdjcool@gmail.com" # "mailto:your.name@email.com"
+      url: "mailto:hdjcool@gmail.com" # "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,13 +121,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/fhEheoqkr"
+      # url: "https://www.facebook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hdjcool"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/hdj_gugalove"
+      # url: "https://www.instagram.com"
 
 # Site Footer
 footer:
@@ -139,7 +137,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/fhEheoqkr"
+      # url: "https://www.facebook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hdjcool"
@@ -151,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/hdj_gugalove"
+      # url: "https://www.instagram.com"
 
 
 # Reading Files
