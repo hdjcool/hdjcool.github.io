@@ -1286,7 +1286,7 @@ pd.DataFrame(history.history).plot.line()
 
 
     
-![png](output_32_1.png)
+![png](/assets/images/19_cla/output_32_1.png)
     
 
 
