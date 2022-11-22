@@ -20,7 +20,7 @@ title                    : "GUGA 마법서"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GUGA"
-description              : "일상, 업무, 딥러닝, 취미 "
+description              : "일상, 업무, 딥러닝, 취미"
 url                      : "https://hdjcool.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hdjcool/hdjcool.github.io"
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
