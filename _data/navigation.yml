@@ -2,12 +2,12 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Data Science"
-    url: /categories/DataScience/
-  - title: "ML"
-    url: /categories/ML/
   - title: "DL"
     url: /categories/DL/
+  - title: "ML"
+    url: /categories/ML/
+  - title: "Data Science"
+    url: /categories/DataScience/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
