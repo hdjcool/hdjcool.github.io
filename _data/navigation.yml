@@ -6,6 +6,8 @@ main:
     url: /categories/DataScience/
   - title: "ML"
     url: /categories/ML/
+  - title: "DL"
+    url: /categories/DL/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
