@@ -1,9 +1,9 @@
 ---
 title: "Data Science"
-permalink: /categories/Data&nbsp;Science/
+permalink: /categories/DataScience/
 layout: category
 author_profile: true
-taxonomy: Data&nbsp;Science
+taxonomy: DataScience
 ---
 
 Data Science 관련 포스트 입니다.
