@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: DataScience
 ---
 
-Data Science 관련 포스트 입니다.
+Byte Degree : Data Science with Python 과정 프로젝트 파일
