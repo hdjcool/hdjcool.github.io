@@ -1,3 +1,15 @@
+---
+title:  "backpropagation"
+excerpt: “역전파 학습법 연습”
+
+categories:
+  - DL
+tags:
+  - python
+  - tensor flow
+  - backpropagation
+---
+
 ## 역전파 학습법을 이용한 심층 신경망 학습
 
 
