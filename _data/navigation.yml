@@ -3,7 +3,7 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Data Science"
-    url: /categories/Data&nbsp;Science/
+    url: /categories/DataScience/
   - title: "ML"
     url: /categories/ML/
   # - title: "Sample Posts"
