@@ -4,8 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Data Science"
     url: /categories/Data&nbsp;Science/
-  - title: "About"
-    url: /about/
+  - title: "ML"
+    url: /categories/ML/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -14,5 +14,7 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "About"
+    url: /about/
+  # - title: "Sitemap"
+  #   url: /sitemap/
