@@ -2,8 +2,8 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "블로그 방문하기"
-    url: https://hdjcool.github.io/
+  - title: "Data Science"
+    url: /categories/Data&nbsp;Science/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
