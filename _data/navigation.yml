@@ -8,6 +8,8 @@ main:
     url: /categories/ML/
   - title: "Data Science"
     url: /categories/DataScience/
+  - title: "etc"
+    url: /categories/etc/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
